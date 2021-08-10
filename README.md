@@ -41,29 +41,15 @@
 <br />
 <br />
 <br />
-<br />
-
-
-
-
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 
-
 [![Spotify](https://now-ogzhns53-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
 
-  </td>
-
-  </table>
 
 
 
-
-
-
-<br />
-<br />
 
 [instagram]: https://www.instagram.com/ogzhnsfgl
 
