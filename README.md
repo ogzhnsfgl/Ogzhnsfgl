@@ -9,6 +9,7 @@
 
 
 ## ⏲ What we are doing now:
+
 - I'm developing a various small project to learn with React 🚀, I am writing on a site 📃.
 
 - I'm also taking course that 6 month bootcamp to become Full-Stack Developer!
@@ -16,6 +17,9 @@
 - I also work as a FreeLancer 🆓.
 
 <br />
+
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
 
 ### 📩 Connect with me:
 
@@ -42,12 +46,15 @@
 <br />
 <br />
 <br />
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+
 
 <br />
 
-[![Spotify](https://now-ogzhns53-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
+
+ [![Spotify](https://now-lilac.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
+
+
+
 
 
 
