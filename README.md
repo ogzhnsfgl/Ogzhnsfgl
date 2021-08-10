@@ -1,5 +1,5 @@
 
-## I'm a Civil Engineer 👨‍🎓, now try to become a Front End Developer 🚀!
+## I'm a Civil Engineer :man_office_worker:, now try to become a Front End Developer:man_technologist:!
 <img style="float:right; padding-top:50px" align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="150px"  />
 
 - 🔭 I’m currently working on a small and special application to learn React, Redux etc!
@@ -45,7 +45,7 @@
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
-
+:headphones::notes:
 [![Spotify](https://now-ogzhns53-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
 
 
