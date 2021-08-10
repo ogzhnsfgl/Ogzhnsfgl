@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" width="500" />
 
-## I'm a graduated Civil Enginner 👨‍🎓, now try to become a Front End Developer 🚀!
+## I'm a graduated Civil Engineer 👨‍🎓, now try to become a Front End Developer 🚀!
 - 🔭 I’m currently working on a small and special application to learn React, Redux etc!
 - 🌱 I’m currently learning React, Redux and .NET.
 - 👯 I’m looking to collaborate with other React Developer!
