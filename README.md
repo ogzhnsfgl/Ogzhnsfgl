@@ -47,9 +47,8 @@
 
 <br />
 
-
-:headphones::notes:
 [![Spotify](https://now-ogzhns53-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
+
 
 
 
