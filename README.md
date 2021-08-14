@@ -16,13 +16,10 @@
 
 - I also work as a FreeLancer 🆓.
 
-<br />
-
-[!stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical)
-
-<a>  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
-
+<a href="https://github.com/Ogzhnsfgl?tab=repositories">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
+ 
+ 
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -49,11 +46,12 @@
 <br />
 <br />
 
-
+  <img align="center" width="500" src="https://now-lilac.vercel.app/api/spotify" />
+</a>
 <br />
 
 
- [![Spotify](https://now-lilac.vercel.app/api/spotify)](https://open.spotify.com/user/ogzhnn?si=bee457b53b7b4224)
+
 
 
 
