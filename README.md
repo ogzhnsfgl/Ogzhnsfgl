@@ -11,14 +11,15 @@
 ## ⏲ What we are doing now:
 
 - I'm developing a various small project to learn with React 🚀, I am writing on a site 📃.
-
+<a href="https://github.com/Ogzhnsfgl?tab=repositories">
+  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
+ </a>
+ 
 - I'm also taking course that 6 month bootcamp to become Full-Stack Developer!
 
 - I also work as a FreeLancer 🆓.
 
-<a href="https://github.com/Ogzhnsfgl?tab=repositories">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
- 
+
  
 ### 📩 Connect with me:
 
@@ -42,13 +43,11 @@
 [<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][github]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png" />][bootstrap]
 <br />
-<br />
-<br />
-<br />
+  <br />
+<div align="left">
+  <img align="center" width="300" src="https://now-lilac.vercel.app/api/spotify" />
+</div>
 
-  <img align="center" width="500" src="https://now-lilac.vercel.app/api/spotify" />
-</a>
-<br />
 
 
 
