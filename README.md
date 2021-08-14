@@ -18,7 +18,9 @@
 
 <br />
 
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+[!stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical)
+
+<a>  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ogzhnsfgl&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 ### 📩 Connect with me:
