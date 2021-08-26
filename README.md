@@ -4,18 +4,17 @@
 
 - 🔭 I’m currently working on a small and special application to learn React, Redux etc!
 - 🌱 I’m currently learning React, Redux and .NET.
-- 👯 I’m looking to collaborate with other React Developer!
-- 🤔 I’m looking for help with React Front End Developer.
 
+<br/>
 
 ## ⏲ What we are doing now:
 
-- I'm developing a various small project to learn with React 🚀, I am writing on a site 📃.
+- I'm developing a various small project to learn with React  and C#(.Net)🚀
 <a href="https://github.com/Ogzhnsfgl?tab=repositories">
   <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
  </a>
  
-- I'm also taking course that 6 month bootcamp to become Full-Stack Developer!
+- I'm also student of six month BilgeAdam Boost bootcamp course to become a Full-Stack Developer! 
 
 - I also work as a FreeLancer 🆓.
 
