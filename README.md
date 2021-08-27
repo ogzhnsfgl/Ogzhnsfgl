@@ -11,7 +11,7 @@
 
 - I'm developing a various small project to learn with React  and C#(.Net)🚀
 <a href="https://github.com/Ogzhnsfgl?tab=repositories">
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
+  <img align="right" width="300px" src="https://my-stats-gamma.vercel.app/api/top-langs/?username=Ogzhnsfgl&show_icons=true&theme=radical" />
  </a>
  
 - I'm also student of six month BilgeAdam Boost bootcamp course to become a Full-Stack Developer! 
