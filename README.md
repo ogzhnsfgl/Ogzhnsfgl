@@ -1,5 +1,5 @@
 
-## I'm a Civil Engineer :man_office_worker:, now try to become a Front End Developer:man_technologist:!
+## I'm a Civil Engineer :man_office_worker:, now trying to become a Front End Developer:man_technologist:!
 <img style="float:right; padding-top:50px" align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="150px"  />
 
 - 🔭 I’m currently working on a small and special application to learn React, Redux etc!
