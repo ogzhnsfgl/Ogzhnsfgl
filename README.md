@@ -32,7 +32,7 @@
 
 <h2 align="center">💬 My Blog Article</h2>
 <p align="center">
-  <a target="_blank"href="https://o-sofuoglu.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://osofuoglu.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
